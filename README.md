@@ -1,5 +1,5 @@
 # Clima de São Paulo
-Projeto para pesquisar a previsão de temperatura de São Paulo no site do Climatempo
+Projeto de exercício acadêmico, de extração de dados da previsão de temperatura de São Paulo, no site Climatempo
 ## Objetivo
 Este projeto foi desenvolvido para o curso Master em Jornalismo de Dados, Automação e Data Storytelling, do Insper. Seu objetivo é exercitar técnicas ensinadas em duas disciplinas: Pensamento Computacional, do professor Álvaro Fernandes de Abreu Justen, e Transparência, Reprodutibilidade e Uso Ético de Dados, das professoras  Natália Passos Mazotte Cortez e  Carla Piazzon Ramos Vieira.
 
