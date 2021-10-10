@@ -16,7 +16,7 @@ O projeto busca retirar todos os dias as previsões de temperatura mínima e tem
 
 Os dados são extraídos por meio de um código em Python e armazenados em tabelas no formato CSV no computador. O código prevê a criação de uma função para a extração dos dados. Uma segunda parte do código formata os dados em uma tabela na linguagem pandas. Em seguida, a tabela é convertida para um arquivo em formato CSV.
 
-O código utiliza as seguintes bibliotecas da linguagem Python: Request, BeautifulSoup, Datetime, Pandas e CSV. Como se trata de um exercício acadêmico, ao lado de cada linha do código anexado neste repositório há uma explicação para o que foi feito.  
+O código 'Raspaclima3.ipynb' utiliza as seguintes bibliotecas da linguagem Python: Request, BeautifulSoup, Datetime, Pandas e CSV. Como se trata de um exercício acadêmico, ao lado de cada linha do código anexado neste repositório há uma explicação para o que foi feito.  
 
 ## Contribuição
 
